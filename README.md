@@ -11,7 +11,7 @@
 7. Provide an **absolute path** parameter under filePath variable. This is an absolute path to yuor file. Example:`/Users/alisa/Documents/Adaptivist_test_files/sample_file.txt`
 8. Press the `try-it-out` button.
 
-### *** ASSUMTIONS ***
+### *** ASSUMPTIONS ***
 
 1. The file is a small file, for very large files we probably need a more sophisticated solution. 
 2. File has no encoding.
